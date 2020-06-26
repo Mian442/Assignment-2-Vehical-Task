@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid lightgray;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 40px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
